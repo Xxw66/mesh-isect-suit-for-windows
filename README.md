@@ -18,6 +18,6 @@ https://github.com/vchoutas/torch-mesh-isect/issues/24
 4.Do some changes on "\src/bvh_cuda_op.cu"( I don't know why, but you have to, if you want install this package on windows. It works for me.)
 https://gist.github.com/conorcodes/612f3358f0c2569f26e07c5fd86345fe
 
-use this new bvh_cuda_op.cu to replaced origin file.
+use this new bvh_cuda_op.cu to replace origin file.
 
 
