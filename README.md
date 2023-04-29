@@ -3,8 +3,8 @@ This package do some changes on mesh-insect(smplify-x),
 so that you can directly use it on windows system
 to install this package with Pytorch=11.7,CUDA=11.7
 
-Here are some problems i encountered when install mesh-insect(smplify-x)  and how i fixed them. 
-I Ihave taken inspiration from some suggestions on the internet.
+Here are some problems i encountered when installed mesh-insect(smplify-x)  and how i fixed them. 
+I have taken inspiration from some suggestions on the internet.
 I would like to express my gratitude to those who provided the suggestions, although I will not list them individually.
 
 1.Make sure your CUDA version and Pytorch version are compatible.
